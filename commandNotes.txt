@@ -1,0 +1,9 @@
+Commands I have learned in this demo:
+git init
+git add
+git rm --cached
+git status
+git log
+git cat-file
+git commit -a --> commits the changes to all tracked files which have been modified
+git add :/  --> adds all files starting from root directory down to all sub dirs
